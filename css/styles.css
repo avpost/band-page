@@ -1,0 +1,36 @@
+body {
+  background-color: darkorange;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: fantasy;
+  text-align: center
+}
+
+.tour {
+  text-decoration: underline;
+}
+
+div.sidebar {
+  float: right;
+  font-family: sans-serif;
+  border-style: solid;
+  border-color: green;
+  border-width: thick;
+  padding: 6px;
+  margin: 14px;
+}
+
+img {
+  width: 50%;
+}
+
+h2{
+  float: center;
+}
+
+span.tour{
+  float: left;
+}
